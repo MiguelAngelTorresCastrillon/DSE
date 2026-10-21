@@ -49,7 +49,7 @@
         <mxCell id="lane3" parent="1" style="swimlane;horizontal=0;startSize=110;fillColor=#e8f4f8;html=1;" value="Auxiliar logístico" vertex="1">
           <mxGeometry height="150" width="2300" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="a1" parent="lane3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Recibir orden de picking en dispositivo móvil" vertex="1">
+        <mxCell id="a1" parent="lane3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Recibir orden de picking en estación PC de bodega" vertex="1">
           <mxGeometry height="60" width="140" x="660" y="45" as="geometry" />
         </mxCell>
         <mxCell id="a2" parent="lane3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Ir a la ubicación indicada y tomar la unidad asignada (FIFO)" vertex="1">
